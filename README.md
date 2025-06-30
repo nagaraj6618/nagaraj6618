@@ -24,6 +24,18 @@
 
 ---
 
+## 💡 Skills
+
+- **Languages:** Java, JavaScript  
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **CS Fundamentals:** Data Structures & Algorithms (70+ problems solved), OOP, DBMS, OS, CN  
+- **Learning:** System Design, DSA
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
