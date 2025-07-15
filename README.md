@@ -31,7 +31,7 @@
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, Postman, VS Code  
-- **CS Fundamentals:** Data Structures & Algorithms (70+ problems solved), OOP, DBMS, OS, CN  
+- **CS Fundamentals:** Data Structures & Algorithms (80+ problems solved), OOP, DBMS, OS, CN  
 - **Learning:** System Design, DSA
 
 ---
